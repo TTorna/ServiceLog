@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\ServicioLog\obj\Debug\ServicioLog.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ServicioLog\obj\Debug\ServicioLog.ProjectInstaller.resources
+C:\Users\Usuario\source\repos\ServicioLog\obj\Debug\ServicioLog.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ServicioLog\obj\Debug\ServicioLog.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ServicioLog\bin\Debug\ServicioLog.exe.config
+C:\Users\Usuario\source\repos\ServicioLog\bin\Debug\ServicioLog.exe
+C:\Users\Usuario\source\repos\ServicioLog\bin\Debug\ServicioLog.pdb
+C:\Users\Usuario\source\repos\ServicioLog\obj\Debug\ServicioLog.exe
+C:\Users\Usuario\source\repos\ServicioLog\obj\Debug\ServicioLog.pdb
