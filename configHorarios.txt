@@ -1,0 +1,8 @@
+| Ingrese el dia aqui |
+Lunes
+
+| Ingrese la hora aqui |
+13:15
+
+| Ingrese el tiempo de secuencia aqui |
+7000
